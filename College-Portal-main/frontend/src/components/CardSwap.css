@@ -1,0 +1,14 @@
+.card-swap-container {
+  position: relative;
+  perspective: 1500px;
+  margin: 0 auto;
+}
+
+.card {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  cursor: pointer;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+}
