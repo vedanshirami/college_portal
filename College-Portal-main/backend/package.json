@@ -9,7 +9,7 @@
     "seed": "node admin-seeder.js",
     "build": "echo build step"
   },
-  "author": "Krish Jotaniya",
+  "author": "Vedanshi",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^8.1.6",
